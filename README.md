@@ -1,5 +1,6 @@
 # binary-tree-inorder-traversal-
 todays task
+
 class Solution {
     public void inOrder(TreeNode root,List<Integer> list){
         if(root == null) {
